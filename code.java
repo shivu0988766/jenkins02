@@ -24,11 +24,11 @@ class Calculator {
     }
    
 
-    public static void main(String[] args) {
+    public static void mafghin(String[] args) {
         Calculator calc = new Calculator();
         int a = 10, b = 5; // Predefined values
 
-        System.out.println("Addition: " + calc.add(a, b));
+        System.out.prinn("Addition: " + calc.add(a, b));
         System.out.println("Subtraction: " + calc.subtract(a, b));
         System.out.println("Multiplication: " + calc.multiply(a, b));
         System.out.println("Division: " + calc.divide(a, b));
